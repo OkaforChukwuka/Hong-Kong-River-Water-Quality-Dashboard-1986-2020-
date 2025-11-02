@@ -8,8 +8,8 @@ The dashboard provides insights into how these parameters fluctuate across regio
 
 ---
 
-## 🧩 Dataset
-- **Source:** Kaggle – [Hong Kong River Water Parameters 1986–2020](https://www.kaggle.com/datasets/)
+## 🧩 Dataset/Dashboard
+- **Source:** Kaggle – ![Hong Kong River Water Parameters 1986–2020](https://raw.githubusercontent.com/OkaforChukwuka/Hong-Kong-River-Water-Quality-Dashboard-1986-2020-/refs/heads/main/water%20quality.png)
 - **Key Columns:**
   - `River` — River name or monitoring station
   - `Year` — Year of measurement
